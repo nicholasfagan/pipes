@@ -1,0 +1,11 @@
+[package]
+name = "pipes"
+version = "0.1.0"
+authors = ["Nick Fagan <nick@ifagan.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "*"
+terminal_size = "*"
+ctrlc = "*"
+structopt = "*"
